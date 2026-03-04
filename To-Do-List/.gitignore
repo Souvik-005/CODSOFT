@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE settings (optional but recommended)
+.vscode/
+.idea/
+
+# Temporary files
+*.log
+*.tmp
