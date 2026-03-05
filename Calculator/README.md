@@ -3,7 +3,7 @@
 A simple menu-driven calculator built using Python.
 This program allows users to perform basic arithmetic operations like addition, subtraction, multiplication, division, and remainder using a command-line interface.
 
-📌 Features
+## 📌 Features
 
 ➕ Addition
 
@@ -21,13 +21,13 @@ This program allows users to perform basic arithmetic operations like addition, 
 
 🚫 Division by zero protection
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Python 3
 
 Command Line Interface (CLI)
 
-📂 How It Works
+## 📂 How It Works
 
 The program asks the user to enter two numbers.
 
@@ -45,19 +45,19 @@ Remainder
 
 Exit
 
-The user selects the desired operation.
+- The user selects the desired operation.
 
-The program performs the calculation and displays the result.
+- The program performs the calculation and displays the result.
 
-The loop continues until the user chooses Exit.
+- The loop continues until the user chooses Exit.
 
-▶️ How to Run
+## ▶️ How to Run
 
 Make sure Python 3 is installed.
 
 Download or clone the repository.
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/CODSOFT.git
+git clone https://github.com/Souvik-005/CODSOFT
 
 Navigate to the calculator folder.
 
@@ -66,7 +66,7 @@ cd Calculator
 Run the program.
 
 python calculator.py
-💻 Example Output
+## 💻 Example Output
 ...Welcome to My Calculator...
 
 Enter 1st Number:: 10
@@ -82,7 +82,7 @@ Enter Second Number:: 5
 Choose your Operation to perform: 1
 
 The Addition of 10 and 5 is: 15
-⚠️ Error Handling
+## ⚠️ Error Handling
 
 If a user enters invalid input, the program shows:
 
@@ -90,7 +90,7 @@ Enter a Valid Input.
 
 Division by zero is prevented.
 
-🎯 Learning Outcome
+## 🎯 Learning Outcome
 
 This project demonstrates:
 
