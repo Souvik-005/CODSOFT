@@ -3,7 +3,7 @@ print("...Welcome to My Calculator...")
 while True:   
     try:   
         Op1=int(input("Enter 1st Number:: "))
-        Op2=int(input("Enter Second Number:: "))
+        Op2=int(input("Enter 2nd Number:: "))
         print("1. Addition")
         print("2. Subtraction")
         print("3. Multiplication")
