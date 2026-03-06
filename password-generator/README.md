@@ -37,7 +37,7 @@ A simple Python program that generates secure passwords based on user-selected c
   cd password-generator
 
 
-2. Run the program
+3. Run the program
 
 
   python app.py
