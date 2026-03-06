@@ -65,7 +65,8 @@ cd Calculator
 
 Run the program.
 
-python calculator.py
+python app.py
+
 ## 💻 Example Output
 ...Welcome to My Calculator...
 
