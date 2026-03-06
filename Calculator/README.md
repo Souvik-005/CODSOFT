@@ -70,8 +70,6 @@ python app.py
 ## 💻 Example Output
 ...Welcome to My Calculator...
 
-Enter 1st Number:: 10
-Enter Second Number:: 5
 
 1. Addition
 2. Subtraction
@@ -81,6 +79,10 @@ Enter Second Number:: 5
 6. Exit
 
 Choose your Operation to perform: 1
+
+Enter 1st Number:: 10
+
+Enter Second Number:: 5
 
 The Addition of 10 and 5 is: 15
 ## ⚠️ Error Handling
