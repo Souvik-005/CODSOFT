@@ -22,30 +22,30 @@ A simple Python program that generates secure passwords based on user-selected c
   * `random`
   * `string`
 
-```
+
 ## ▶️ How to Run
 
 1. Clone the repository
 
-```
-git clone https://github.com/Souvik-005/CODSOFT
-```
+
+  git clone https://github.com/Souvik-005/CODSOFT
+
 
 2. Navigate to the project folder
 
-```
-cd password-generator
-```
+
+  cd password-generator
+
 
 2. Run the program
 
-```
-python app.py
-```
+
+  python app.py
+
 
 ## 💡 Example
 
-```
+
 Enter the length of password: 10
 
 The complexity of the password :
@@ -56,5 +56,3 @@ The complexity of the password :
 Choose between 1 & 2 & 3: 3
 
 Generated Password: A9@fG2#kLp
-
-```
